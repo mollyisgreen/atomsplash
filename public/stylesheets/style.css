@@ -1,0 +1,24 @@
+body {
+	margin: 0px 0px 0px 0px;
+	font-family: Courier;
+	text-align: center;
+	padding-top: 50px;
+}
+
+.title {
+	font-size: 48px;
+	padding-bottom: 10px;
+}
+
+.slogan {
+	font-size: 18px;
+	padding-bottom: 50px;
+}
+
+.categories {
+	font-size: 18px;
+}
+
+.launchdate {
+	font-size: 30px;
+}
